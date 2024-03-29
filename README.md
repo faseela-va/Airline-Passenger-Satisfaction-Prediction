@@ -34,13 +34,13 @@ satisfaction outcomes based on a diverse set of relevant features.Throughout
 the project, we encountered challenges related to data quality, ensuring completeness, and the necessity for robust preprocessing.
 
 This model can be used to predict future airline passenger satisfaction by
-airline companies.To maintain and improve customer satisfaction and customer retention my recommendation is to have top notch inflight entertainment. If technology is not already in place this may require some capital investment but it is the most important factor and it is probably easier and
+airline companies.To maintain and improve customer satisfaction and customer retention my recommendation is to have top notch inflight entertainment. If technology is not already in place this may require some capital investment but it is the most important factor and it is probably easier and
 cheaper to impove than seat comfort. Seat comfort is probably the most
 difficult thing to manage as the buisness is trying to maximize the number
 of passengers. However, perhaps improving materials the head rest or other
 factors that do not require taking up more space may be worth exploring
-for greater customer satisfaction. Ease of Online Booking is the least important of the top three factors and seems to be well regarded by passengers.
+for greater customer satisfaction. Ease of Online Booking is the least important of the top three factors and seems to be well regarded by passengers.
 
 As we move forward, the outcomes of our project contribute to the broader
-landscape of utilizing machine learning for predictive analytics in service sectors, fostering ongoing innovation and improvements in customer satisfaction
+landscape of utilizing machine learning for predictive analytics in service sectors, fostering ongoing innovation and improvements in customer satisfaction
 strategies.
