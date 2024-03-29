@@ -23,3 +23,24 @@ The dataset consists of the details of customers who have already flown with the
 some columns are Likert scale with rating od (1 to 5).
 Each entry in the dataset corresponds to a unique passenger’s feedback, providing a comprehensive snapshot of their journey and satisfaction levels.
 
+# Conclusion
+In the culmination of our airline customer satisfaction prediction project, we
+set out to harness the capabilities of the XGBoost algorithm to enhance the
+understanding and anticipation of passenger contentment during air travel.
+
+The analysis uncovered
+the robustness of the XGBoost algorithm in accurately predicting customer
+satisfaction outcomes based on a diverse set of relevant features.Throughout
+the project, we encountered challenges related to data quality, ensuring completeness, and the necessity for robust preprocessing.
+
+This model can be used to predict future airline passenger satisfaction by
+airline companies.To maintain and improve customer satisfaction and customer retention my recommendation is to have top notch inflight entertainment. If technology is not already in place this may require some capital investment but it is the most important factor and it is probably easier and
+cheaper to impove than seat comfort. Seat comfort is probably the most
+difficult thing to manage as the buisness is trying to maximize the number
+of passengers. However, perhaps improving materials the head rest or other
+factors that do not require taking up more space may be worth exploring
+for greater customer satisfaction. Ease of Online Booking is the least important of the top three factors and seems to be well regarded by passengers.
+
+As we move forward, the outcomes of our project contribute to the broader
+landscape of utilizing machine learning for predictive analytics in service sectors, fostering ongoing innovation and improvements in customer satisfaction
+strategies.
