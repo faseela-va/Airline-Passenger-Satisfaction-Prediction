@@ -7,7 +7,7 @@ derived from the resulting confusion matrix guide recommendations for targeted s
 This project contributes valuable insights to the airline industry, facilitating
 data-driven decision-making to optimize the overall travel experience and
 customer satisfaction. It helps to seeks airlines with actionable insights for
-personalized and targeted improvements, contributing to a holistic understanding of customer preferences and expectations in the airline industry.
+personalized and targeted improvements, contributing to a holistic understanding of customer preferences and expectations in the airline industry.
 By harnessing the power of ML,airlines can create a more satisfying and
 personalized experience for their passengers, leading to increased customer
 loyalty and profitability
