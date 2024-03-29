@@ -16,7 +16,10 @@ loyalty and profitability
 For this study, the raw data collected is obtained from the online resource
 kaggle.c, which will be used to train machine learning models. The data is
 originally available in English language, and it was obtained in the comma
-separated values (CSV) format. The dataset consist of the feedback details of customer who have already flown with them. 
-The dataset consists of the details of customers who have already flown with them. As this dataset is survey data,
+separated values (CSV) format. 
+
+The dataset consist of the feedback details of customer who have already flown with them.The dataset contains an airline passenger satisfaction survey, consisting of 129880 entries and 23 features. 
+The dataset consists of the details of customers who have already flown with them. As this dataset is survey data,
 some columns are Likert scale with rating od (1 to 5).
-Each entry in the dataset corresponds to a unique passenger’s feedback, providing a comprehensive snapshot of their journey and satisfaction levels.
+Each entry in the dataset corresponds to a unique passenger’s feedback, providing a comprehensive snapshot of their journey and satisfaction levels.
+
